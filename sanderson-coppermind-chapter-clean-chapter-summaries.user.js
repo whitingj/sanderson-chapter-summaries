@@ -2,7 +2,7 @@
 // @name         sanderson-coppermind-chapter-clean-chapter-summaries
 // @namespace    http://tampermonkey.net/
 // @version      2024-12-04
-// @description  try to take over the world!
+// @description  Cleans up the chapter summary pages on coppermind.net so it is pleasant to listen to if you have the web browser read the page to you.
 // @author       You
 // @match        https://coppermind.net/wiki/Summary*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=coppermind.net
