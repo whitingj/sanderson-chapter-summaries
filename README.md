@@ -10,4 +10,6 @@ This is a user script that can be run in tamper monkey or userscripts on iOS tha
 * Start the reading the webpage.
   * On iOS in Safari, click the web page options icon immediately to the left of the website address, and then press the "Listen to Page" button.
 
-*Note: I've only tested this on Safari on iOS and Chrome.*
+> Note:
+> I've only tested this on Safari on iOS and Chrome.
+> You will need [userscripts](https://apps.apple.com/us/app/userscripts/id1463298887) Safari extension installed on your iPhone or [tampermonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?pli=1) installed in Chrome.
