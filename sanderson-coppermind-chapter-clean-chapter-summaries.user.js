@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name         sanderson-coppermind-chapter-clean-chapter-summaries
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/whitingj/sanderson-chapter-summaries/tree/main
+// @source       https://github.com/whitingj/sanderson-chapter-summaries/raw/refs/heads/main/sanderson-coppermind-chapter-clean-chapter-summaries.user.js 
 // @version      2024-12-04
 // @description  Cleans up the chapter summary pages on coppermind.net so it is pleasant to listen to if you have the web browser read the page to you.
 // @author       You
